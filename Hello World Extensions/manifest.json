@@ -1,0 +1,16 @@
+{
+    "manifest_version": 2,
+    "name": "My Extension",
+    "version": "1.0",
+   
+    "description": "Hello World",
+   
+    "browser_action": {
+        "default_icon": { 
+            "19": "images/icon_world.png", 
+            "38": "images/icon_world.png" 
+        },
+        "default_title": "Hello world", 
+        "default_popup": "index.html"
+    }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Chrome Extensions",
+  "authors": [
+    "vishal anand <vishal_24_anand@hotmail.com>"
+  ],
+  "description": "hello world",
+  "main": "",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
