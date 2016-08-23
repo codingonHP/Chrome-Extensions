@@ -1,0 +1,22 @@
+{
+  "name": "protein-tracker",
+  "homepage": "https://github.com/codingonHP/Chrome-Extensions",
+  "authors": [
+    "vishal anand <vishal_24_anand@hotmail.com>"
+  ],
+  "description": "protein tracker application",
+  "main": "popup.html",
+  "moduleType": [],
+  "keywords": [
+    "protein"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

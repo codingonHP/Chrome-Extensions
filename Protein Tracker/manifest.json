@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "Protein Tracker",
+  "version": "1.0",
+  "description": "protein tracker extension",
+  "icons": {},
+  "browser_action": {
+    "default_icon": {
+      "19": "images/icon_star.png",
+      "38": "images/icon_star.png"
+    },
+    "default_title": "Protein Tracker",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "storage"
+  ],
+  "options_page": "options.html"
+}
